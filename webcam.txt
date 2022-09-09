@@ -1,0 +1,13 @@
+camera="raspi"
+
+# See https://faq.octoprint.org/mjpg-streamer-config for available options
+
+# camera_usb_options="-r 1024x768 -f 10"
+# camera_raspi_options="-x 800 -y 600 -fps 10"
+
+#
+# Current working directory is the mjpg-streamer base directory.
+#
+#camera_http_webroot="./www-mainsail"
+#camera_http_options="-n"
+
